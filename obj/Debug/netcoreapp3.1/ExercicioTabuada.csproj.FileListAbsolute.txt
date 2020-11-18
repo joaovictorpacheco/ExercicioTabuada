@@ -1,0 +1,13 @@
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\ExercicioTabuada\obj\Debug\netcoreapp3.1\ExercicioTabuada.csprojAssemblyReference.cache
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\ExercicioTabuada\obj\Debug\netcoreapp3.1\ExercicioTabuada.AssemblyInfoInputs.cache
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\ExercicioTabuada\obj\Debug\netcoreapp3.1\ExercicioTabuada.AssemblyInfo.cs
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\ExercicioTabuada\obj\Debug\netcoreapp3.1\ExercicioTabuada.csproj.CoreCompileInputs.cache
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\ExercicioTabuada\bin\Debug\netcoreapp3.1\ExercicioTabuada.exe
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\ExercicioTabuada\bin\Debug\netcoreapp3.1\ExercicioTabuada.deps.json
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\ExercicioTabuada\bin\Debug\netcoreapp3.1\ExercicioTabuada.runtimeconfig.json
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\ExercicioTabuada\bin\Debug\netcoreapp3.1\ExercicioTabuada.runtimeconfig.dev.json
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\ExercicioTabuada\bin\Debug\netcoreapp3.1\ExercicioTabuada.dll
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\ExercicioTabuada\bin\Debug\netcoreapp3.1\ExercicioTabuada.pdb
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\ExercicioTabuada\obj\Debug\netcoreapp3.1\ExercicioTabuada.dll
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\ExercicioTabuada\obj\Debug\netcoreapp3.1\ExercicioTabuada.pdb
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\ExercicioTabuada\obj\Debug\netcoreapp3.1\ExercicioTabuada.genruntimeconfig.cache
